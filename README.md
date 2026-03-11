@@ -9,5 +9,5 @@
 
 |Apellido|Nombre|Numero|Correo|Enlace|
 |--------|------|------|------|-----|
-|Blas Delpozzi|Sofia|1|sofiablasd@gmail.com|aaa|
+|Blas Delpozzi|:Sofia:|1|sofiablasd@gmail.com|aaa|
 
