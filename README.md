@@ -9,5 +9,7 @@
 
 |Apellido|Nombre|Numero|Correo|Enlace|
 |--------|------|------|------|-----|
-|Blas Delpozzi|:Sofia:|1|sofiablasd@gmail.com|aaa|
+|Blas Delpozzi|Sofia|2616598044|sofiablasd@gmail.com|https://github.com/sofi-blas/Modulo1?tab=readme-ov-file#modulo1|
+|Negroni|Rocio Anabel|2615689559|rocio.a.negroni@gmail.com|https://github.com/negroni-rocio/Modulo1?tab=readme-ov-file#modulo1|
+|Gallina|Luciana|2617215095|lucigallina07@gmail.com|https://github.com/lucianagallina/Modulo_1?tab=readme-ov-file#modulo_1|
 
