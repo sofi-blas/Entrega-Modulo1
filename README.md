@@ -8,6 +8,6 @@
 ## Eugenio Alastra: https://github.com/EugenioAlastra/Modulo1#modulo1
 
 |Apellido|Nombre|Numero|Correo|Enlace|
-|------------------------------------|
+|--------|------|------|------|-----|
 |Blas Delpozzi|Sofia|1|sofiablasd@gmail.com|aaa|
 
