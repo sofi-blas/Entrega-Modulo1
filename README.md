@@ -23,19 +23,23 @@
 https://docs.google.com/document/d/1vrO58_WXPL5MhsUKLu0pjyPItttMaxWGyj2_5dSgBc0/edit?usp=sharing 
 
 ##Modelo de armado de una página web:
-<HTML>
-  <head>
-    <h1>Mi primer página web</h1>
-  </head>
-  <body>
-    Esto es el cuerpo del texto.
-    <p>Esto es un párrafo</p>
-
+\begin{lstlisting}[caption={Estructura básica de un documento HTML5.}, label={list:html_ejemplo}]
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi primer página Web</title>
+</head>
+<body>
+    <h1>Comentario</h1>
+    <!-- Este es un comentario en HTML -->
+    <p>Esto es el cuerpo del párrafo</p>
     <ul>
       
       <li>primera</li>
       <li>segunda</li>
       <li>tercera</li>
     </ul>
-  </body>
-</HTML>
+</body>
+</html>
+\end{lstlisting}
