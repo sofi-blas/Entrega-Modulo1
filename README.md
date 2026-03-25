@@ -23,23 +23,38 @@
 https://docs.google.com/document/d/1vrO58_WXPL5MhsUKLu0pjyPItttMaxWGyj2_5dSgBc0/edit?usp=sharing 
 
 ##Modelo de armado de una página web:
+% Configuración del estilo para HTML
+\lstset{
+    language=HTML,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue}\bfseries,
+    stringstyle=\color{orange},
+    commentstyle=\color{gray}\itshape,
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    stepnumber=1,
+    numbersep=8pt,
+    backgroundcolor=\color{white},
+    showspaces=false,
+    showstringspaces=false,
+    frame=single,
+    rulecolor=\color{black!30},
+    tabsize=2,
+    breaklines=true,
+    breakatwhitespace=true,
+    captionpos=b % Leyenda debajo del código
+}
 \begin{lstlisting}[caption={Estructura básica de un documento HTML5.}, label={list:html_ejemplo}]
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Mi primer página Web</title>
+    <title>Mi Página Web</title>
 </head>
 <body>
     <h1>Comentario</h1>
     <!-- Este es un comentario en HTML -->
-    <p>Esto es el cuerpo del párrafo</p>
-    <ul>
-      
-      <li>primera</li>
-      <li>segunda</li>
-      <li>tercera</li>
-    </ul>
+    <p>Esto es un párrafo.</p>
 </body>
 </html>
 \end{lstlisting}
