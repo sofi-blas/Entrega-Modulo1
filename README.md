@@ -41,3 +41,5 @@ https://docs.google.com/document/d/1vrO58_WXPL5MhsUKLu0pjyPItttMaxWGyj2_5dSgBc0/
   </body>
 </HTML>
 ```
+## Curriculum Vitae de los integrantes del grupo:
+[Minimal_Academic_CV_Template (1).pdf](https://github.com/user-attachments/files/26255656/Minimal_Academic_CV_Template.1.pdf)
