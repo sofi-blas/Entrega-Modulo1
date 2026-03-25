@@ -19,10 +19,10 @@
 |Negroni|Rocio|2615689559|rocio.a.negroni@gmail.com|https://github.com/negroni-rocio/Modulo1?tab=readme-ov-file#modulo1|
 |Sepúlveda|Camila|2612547791|camila.sepulveda1441@gmail.com|https://github.com/camilasepulveda/Modulo1#modulo1|
 
-##Documento de Google: Guía de shortcuts de Markdown
+## Documento de Google: Guía de shortcuts de Markdown
 https://docs.google.com/document/d/1vrO58_WXPL5MhsUKLu0pjyPItttMaxWGyj2_5dSgBc0/edit?usp=sharing 
 
-##Modelo de armado de una página web:
+## Modelo de armado de una página web:
 ```
 <HTML>
   <head>
