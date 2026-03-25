@@ -21,3 +21,5 @@
 
 ##Documento de Google: Guía de shortcuts de Markdown
 https://docs.google.com/document/d/1vrO58_WXPL5MhsUKLu0pjyPItttMaxWGyj2_5dSgBc0/edit?usp=sharing 
+
+##Modelo de armado de una página web:
