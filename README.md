@@ -42,3 +42,4 @@ https://docs.google.com/document/d/1vrO58_WXPL5MhsUKLu0pjyPItttMaxWGyj2_5dSgBc0/
 </HTML>
 ```
 ## Colab 
+https://colab.research.google.com/drive/1eYD-wWRH5mVdO1L8JqveNYunonNj4Wdc#scrollTo=scNePLUs47WT
