@@ -7,14 +7,14 @@
 - Rocio Negroni: 
 - Luciana Gallina: 
 - Bianca Lombardo: 
-- Camila Sepulveda: 
+- Camila Sepúlveda: https://github.com/camilasepulveda/Modulo-3
 - Eugenio Alastra: 
 
 |Apellido|Nombre|Whatsapp o teléfono|Correo|Links|
 |:-----------:|:-----------:|----------------|---------------------------------|------------------------------------------|
 |Alastra|Eugenio|2612541430||
-|Blas|Sofia|2616598044|https://github.com/sofi-blas/Modulo-3|
+|Blas|Sofia|2616598044||https://github.com/sofi-blas/Modulo-3
 |Gallina|Luciana|2617215095||
 |Lombardo|Bianca|2616161351||
 |Negroni|Rocio|2615689559||
-|Sepúlveda|Camila|2612547791||
+|Sepúlveda|Camila|2612547791|camila.sepulveda1441@gmail.com|https://github.com/camilasepulveda/Modulo-3
