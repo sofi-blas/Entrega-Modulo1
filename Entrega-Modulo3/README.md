@@ -12,7 +12,7 @@
 
 |Apellido|Nombre|Whatsapp o teléfono|Correo|Links|
 |:-----------:|:-----------:|----------------|---------------------------------|------------------------------------------|
-|Alastra|Eugenio|2612541430|euge2005ag@gmail.com|
+|Alastra|Eugenio|2612541430|euge2005ag@gmail.com|https://github.com/EugenioAlastra/Modulo3
 |Blas|Sofia|2616598044|sofiblasd@gmail.com|https://github.com/sofi-blas/Modulo-3
 |Gallina|Luciana|2617215095|lucigallina07@gmail.com|
 |Lombardo|Bianca|2616161351|biancanicolelombardo@gmail.com|
