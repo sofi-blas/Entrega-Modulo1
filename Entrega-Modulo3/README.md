@@ -8,13 +8,13 @@
 - Luciana Gallina: https://github.com/lucianagallina/Modulo_3
 - Bianca Lombardo: 
 - Camila Sepúlveda: https://github.com/camilasepulveda/Modulo-3
-- Eugenio Alastra: 
+- Eugenio Alastra: https://github.com/EugenioAlastra/Modulo3
 
 |Apellido|Nombre|Whatsapp o teléfono|Correo|Links|
 |:-----------:|:-----------:|----------------|---------------------------------|------------------------------------------|
-|Alastra|Eugenio|2612541430|euge2005ag@gmail.com|https://github.com/EugenioAlastra/Modulo3
-|Blas|Sofia|2616598044|sofiblasd@gmail.com|https://github.com/sofi-blas/Modulo-3
-|Gallina|Luciana|2617215095|lucigallina07@gmail.com|https://github.com/lucianagallina/Modulo_3
-|Lombardo|Bianca|2616161351|biancanicolelombardo@gmail.com|
+|Alastra|Eugenio|2612541430|euge2005ag@gmail.com|https://github.com/EugenioAlastra/Modulo3|
+|Blas|Sofia|2616598044|sofiblasd@gmail.com|https://github.com/sofi-blas/Modulo-3|
+|Gallina|Luciana|2617215095|lucigallina07@gmail.com|https://github.com/lucianagallina/Modulo_3|
+|Lombardo|Bianca|2616161351|biancanicolelombardo@gmail.com||
 |Negroni|Rocio|2615689559|rocio.a.negroni@gmail.com| https://github.com/negroni-rocio/Modulo3|
-|Sepúlveda|Camila|2612547791|camila.sepulveda1441@gmail.com|https://github.com/camilasepulveda/Modulo-3
+|Sepúlveda|Camila|2612547791|camila.sepulveda1441@gmail.com|https://github.com/camilasepulveda/Modulo-3|
