@@ -6,7 +6,7 @@
 - Sofia Blas: https://github.com/sofi-blas/Modulo-3
 - Rocio Negroni: https://github.com/negroni-rocio/Modulo3
 - Luciana Gallina: https://github.com/lucianagallina/Modulo_3
-- Bianca Lombardo: 
+- Bianca Lombardo: https://github.com/BiancaLombardo/modulo3
 - Camila Sepúlveda: https://github.com/camilasepulveda/Modulo-3
 - Eugenio Alastra: https://github.com/EugenioAlastra/Modulo3
 
