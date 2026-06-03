@@ -45,6 +45,8 @@ https://colab.research.google.com/drive/1eYD-wWRH5mVdO1L8JqveNYunonNj4Wdc#scroll
 # Entrega-Modulo2
 # REPOSITORIOS: 
 
+## Modern Tech <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/1120a242-a19f-4f16-8dc9-918326e2da69" />
+
 - Sofia Blas: https://github.com/sofi-blas/Modulo-2
 - Rocio Negroni: https://github.com/negroni-rocio/Modulo-2
 - Luciana Gallina: https://github.com/lucianagallina/Modulo_2
