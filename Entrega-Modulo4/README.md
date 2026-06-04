@@ -8,11 +8,11 @@
 - Luciana Gallina: 
 - Bianca Lombardo: https://github.com/BiancaLombardo/modulo4
 - Camila Sepúlveda: 
-- Eugenio Alastra: 
+- Eugenio Alastra: https://github.com/EugenioAlastra/Modulo4
 
 |Apellido|Nombre|Whatsapp o teléfono|Correo|Links|
 |:-----------:|:-----------:|----------------|---------------------------------|------------------------------------------|
-|Alastra|Eugenio|2612541430|euge2005ag@gmail.com||
+|Alastra|Eugenio|2612541430|euge2005ag@gmail.com|https://github.com/EugenioAlastra/Modulo4|
 |Blas|Sofia|2616598044|sofiblasd@gmail.com|https://github.com/sofi-blas/Modulo-4|
 |Gallina|Luciana|2617215095|lucigallina07@gmail.com||
 |Lombardo|Bianca|2616161351|biancanicolelombardo@gmail.com|https://github.com/BiancaLombardo/modulo4|
