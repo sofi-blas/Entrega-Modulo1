@@ -6,7 +6,7 @@
 - Sofia Blas: https://github.com/sofi-blas/Modulo-4
 - Rocio Negroni: https://github.com/negroni-rocio/modulo4
 - Luciana Gallina: 
-- Bianca Lombardo: 
+- Bianca Lombardo: https://github.com/BiancaLombardo/modulo4
 - Camila Sepúlveda: 
 - Eugenio Alastra: 
 
@@ -15,6 +15,6 @@
 |Alastra|Eugenio|2612541430|euge2005ag@gmail.com||
 |Blas|Sofia|2616598044|sofiblasd@gmail.com|https://github.com/sofi-blas/Modulo-4|
 |Gallina|Luciana|2617215095|lucigallina07@gmail.com||
-|Lombardo|Bianca|2616161351|biancanicolelombardo@gmail.com||
+|Lombardo|Bianca|2616161351|biancanicolelombardo@gmail.com|https://github.com/BiancaLombardo/modulo4|
 |Negroni|Rocio|2615689559|rocio.a.negroni@gmail.com|https://github.com/negroni-rocio/modulo4|
 |Sepúlveda|Camila|2612547791|camila.sepulveda1441@gmail.com||
